@@ -1,7 +1,7 @@
 ### Olá! Sou o Kyrsten Júnior! 👋🏽
 
 - 🛠️ Atualmente não trabalho na área de TI, hoje trabalho como instalador de Rede de Proteção, mas estou migrando de área e procuro uma oportunidade na área de Desenvolvedor.
-- 📚 Estudo primeiro semestre de ADS, e paralelamente estou estudando Javascript no curso ProgramadorBR do Youtube Igor Oliveira.
+- 📚 Estudo segundo semestre de ADS, e paralelamente estou estudando Javascript no curso ProgramadorBR do Youtube Igor Oliveira.
 - 🧍🏽‍♂️ Pronouns: ele/dele
 
 <div>
