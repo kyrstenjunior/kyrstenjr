@@ -31,12 +31,7 @@
     <a href="https://www.linkedin.com/in/kyrstenjr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
   </div>
 	
-	##
-	
-<div>
-	![github contribution grid snake animation](https://raw.githubusercontent.com/kyrstenjunior/kyrstenjunior/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kyrstenjunior/kyrstenjunior/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/kyrstenjunior/kyrstenjunior/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kyrstenjunior/kyrstenjunior/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-	_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-</div>
+_generated with [Platane/snk](https://github.com/Platane/snk)_
