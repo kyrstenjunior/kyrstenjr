@@ -1,7 +1,7 @@
 ### Olá! Sou o Kyrsten Júnior! 👋🏽
 
 - 🛠️ Atualmente não trabalho na área de TI, hoje trabalho como instalador de Rede de Proteção, mas estou migrando de área e procuro uma oportunidade na área de Desenvolvedor.
-- 📚 Estudo segundo semestre de ADS, e paralelamente estou estudando Javascript no curso ProgramadorBR do Youtube Igor Oliveira.
+- 📚 Estudo segundo semestre de ADS, e já fiz alguns cursos de HTML, CSS, Javascript, Git e Github, jQuery e React Js.
 - 🧍🏽‍♂️ Pronouns: ele/dele
 
 <div>
@@ -13,6 +13,8 @@
   <img align="center" alt="KJ-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="KJ-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KJ-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="KJ-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="KJ-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="right" alt="meu-gif" height="150px" width="150px" src="https://cdn.discordapp.com/attachments/965634054017912893/965634513667493998/Webp.net-gifmaker.gif">
 </div>
 
