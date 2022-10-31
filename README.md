@@ -1,6 +1,6 @@
 ### Olá! Me chamo Kyrsten Júnior! 👋🏽
 
-- 🛠️ Atualmente trabalho como instalador de Redes de Proteção, mas estou migrando para a área de programação, inicialmente no Front-end, e procuro uma oportunidade na área de Desenvolvedor.
+- 🛠️ Atualmente trabalho como instalador de Redes de Proteção, mas estou migrando para a área de programação, inicialmente no Front-end, e procuro uma oportunidade nesta área fantástica em que sou apaixonado.
 - 📚 Estudo segundo semestre de Análise e Desenvolvimento de Sistemas. Além da faculdade, já fiz alguns cursos de HTML, CSS, Javascript, Git e Github, jQuery e React Js.
 - 🧍🏽‍♂️ Pronouns: ele/dele
 
