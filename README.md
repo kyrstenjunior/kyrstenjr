@@ -30,8 +30,3 @@
      <a href="https://www.instagram.com/kyrstenjunior" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kyrstenjr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
   </div>
-	
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/kyrstenjunior/kyrstenjunior/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kyrstenjunior/kyrstenjunior/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
