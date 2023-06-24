@@ -1,7 +1,8 @@
 ### Olá! Me chamo Kyrsten Júnior! 👋🏽
 
-- 🛠️ Atualmente trabalho como instalador de Redes de Proteção, mas estou migrando para a área de programação, inicialmente no Front-end, e procuro uma oportunidade nesta área fantástica em que sou apaixonado.
-- 📚 Estudo segundo semestre de Análise e Desenvolvimento de Sistemas. Além da faculdade, já fiz cursos de HTML, CSS, Javascript, Git e Github, jQuery, React Js e atualmente estou estudando Node Js.
+- 💻 Atualmente trabalho como Desenvolvedor Front-end em uma agência de marketing. Aqui eu utilizo as tecnologias HTML, CSS, Javascript, PHP, Liquid e ReactJs. Como Back-end das aplicações, são utilizadas plataformas CMS como Magento, Wordpress, VTex e Linx;
+- 📚 Estudo quarto semestre de Análise e Desenvolvimento de Sistemas;
+- 🚀 Além das tecnologias que uso no trabalho, já realizei cursos de Git/Github, Banco de dados relacional/não relacional, NodeJs e realizei um treinamento online de SCRUM na instituição SCRUM Study.
 - 🧍🏽‍♂️ Pronouns: ele/dele
 
 <br>
