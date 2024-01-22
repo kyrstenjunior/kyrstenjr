@@ -1,7 +1,7 @@
 ### Olá! Me chamo Kyrsten Júnior! 👋🏽
 
-- 💻 Atualmente trabalho como Desenvolvedor Front-end em uma agência de marketing. Aqui eu utilizo as tecnologias HTML, CSS, Javascript, PHP, Liquid e ReactJs. Como Back-end das aplicações, são utilizadas plataformas CMS como Magento, Wordpress, VTex e Linx;
-- 📚 Estudo quarto semestre de Análise e Desenvolvimento de Sistemas;
+- 💻 Atualmente trabalho como Desenvolvedor Front-end em uma agência de marketing. Nela já atuei como responsável pelo desenvolvimento completo do front-end em alguns projetos. Neles tive a oportunidade de negociar prazos de entrega com a líder, contribuir na definição de algumas prioridades dentro e fora dos projetos. As tecnologias que tive a oportunidade de utilizar nestes projetos são: HTML, CSS, Javascript, jQuery, PHP e Liquid. O back-end das aplicações é feito por plataformas CMS parceiras como VTex(React Js), Linx(Liquid) e Mageshop (Magento);
+- 📚 Formado em Análise e Desenvolvimento de Sistemas;
 - 🚀 Além das tecnologias que uso no trabalho, já realizei cursos de Git/Github, Banco de dados relacional/não relacional, NodeJs e realizei um treinamento online de SCRUM na instituição SCRUM Study.
 - 🧍🏽‍♂️ Pronouns: ele/dele
 
